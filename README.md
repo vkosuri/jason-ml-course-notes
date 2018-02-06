@@ -1,6 +1,8 @@
 
 Jason brownlee machine learning mini course notes and examples are gathered through subscribed emails from  https://machinelearningmastery.com
 
+[![Documentation Status](https://readthedocs.org/projects/jason-ml-course-notes/badge/?version=latest)](http://jason-ml-course-notes.readthedocs.io/en/latest/?badge=latest)
+
 ## Mini Courses
 1. Applied Machine Learning With Weka
 2. XGBoost With Python Mini-Course
@@ -54,6 +56,8 @@ Jason brownlee machine learning mini course notes and examples are gathered thro
 Author:
 
 ![jason](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2013/11/jason_brownlee-221x300.jpg)
+
+IMAGE CREDITS: https://machinelearningmastery.com
 
 About him https://machinelearningmastery.com/about/
 
