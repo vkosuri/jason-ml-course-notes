@@ -1,9 +1,9 @@
 
-Jason brownlee machine learning mini course notes and examples which I have subscribed through https://machinelearningmastery.com
+Jason brownlee machine learning mini course notes and examples are gathered through subscribed emails from  https://machinelearningmastery.com
 
 ## Mini Courses
-1. XGBoost With Python Mini-Course
-2. Applied Machine Learning With Weka
+1. Applied Machine Learning With Weka
+2. XGBoost With Python Mini-Course
 3. Deep Learning With Python Mini-Course
 
 ## General Information
@@ -51,8 +51,11 @@ Jason brownlee machine learning mini course notes and examples which I have subs
 9. Sequence Prediction, RNN Unrolling and NLP Books
 10. Training Data Size, Hyperparameters and Why One Hot Encode
 
-Author: 
+Author:
+
 ![jason](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2013/11/jason_brownlee-221x300.jpg)
+
+About him https://machinelearningmastery.com/about/
 
 > Most of the content I have used from Jason Brownlee emails which I have subscribed through https://machinelearningmastery.com.
 
