@@ -150,7 +150,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     (master_doc, 'jason', 'ml',
-     [author], 1)
+     , 1)
 ]
 
 
@@ -161,8 +161,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'jason-ml-course-notes', 'jason-ml-course-notes Documentation',
-     author, 'jason-ml-course-notes', 'One line description of project.',
-     author, 'jason-ml-course-notes', 'One line description of project.',
+     'jason-ml-course-notes', 'Jason brownlee machine learning mini course notes and examples',
      'Miscellaneous'),
 ]
 
