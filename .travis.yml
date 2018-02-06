@@ -1,0 +1,8 @@
+language: python
+cache: pip
+
+install:
+  - pip install -r requirements.txt
+script: 
+  - sphinx-build -nW -b html ./docs/ {envtmpdir}/build/
+
